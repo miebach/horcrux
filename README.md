@@ -1,11 +1,24 @@
-# Horocrux backup script #
+## Chris Poole's Horcrux backup script
 
-This is my modified version of the script available here
+This is a fork of the Horcrux backup script available here:
 
-    http://chrispoole.com/project/horcrux/
+http://chrispoole.com/project/horcrux/
 
-and originally created by Chris Poole.
+Chris Poole is the original author and deserves all the credit. 
 
-He's the original author and deserves all the credit, but since
-the script is distributed under the terms of GPLv3 I'm publishing
-it here.
+## There are 2 articles available from Chris:
+
+### Notes on My Backup Strategy: The Voldemort Approach
+
+http://chrispoole.com/article/backup-strategy/
+
+### Horcrux: A Wrapper for Duplicity
+
+http://chrispoole.com/project/horcrux/
+    
+### Another good article:
+
+Multiply Your Encrypted Linux Backups with Horcrux
+    
+http://www.linux.com/learn/tutorials/653346-multiply-your-encrypted-linux-backups-with-horcrux
+
